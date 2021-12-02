@@ -1,5 +1,6 @@
 # Inspired by Airbnb
-Находится в разработке. Текущая версия [здесь](https://airbnb-clone-k5v1ygboz-panteleeevaleksandr-gmailcom.vercel.app/) 
-### Технологии:
+Это учебное приложение с использованием server-side-рендеринга next.js. Также ключевым является использование Tailwind для верстки. Упоминания достойны библиотеки date-fns для работы с датой, react-date-range для создания календаря и react-map-gl для отображения карты. Кроме главной страницы доступна страница с результатом поиска, для доступа к ней, необходимо вбить в поиск локацию и кликнуть кнопку search. Данные запрашиваются с простенького api, результат всегда один - выводятся объекты по Лондону.
+
+[Актуальная версия](https://airbnb-clone-em9xuluim-panteleeevaleksandr-gmailcom.vercel.app/)
   * Next.js
   * Tailwind CSS
